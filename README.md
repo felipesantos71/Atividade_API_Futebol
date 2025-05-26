@@ -1,4 +1,4 @@
-<h1>💻 Projeto Site Futebol 💻</h1> 
+<h1>💻 Projeto Site de Futebol 💻</h1> 
 
 <p1> 📄 Cadastro e consulta de informação de jogadores mais pagina inicial.</p1>
 
