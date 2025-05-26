@@ -1,6 +1,3 @@
-# Atividade_API_Futebol
-Projeto de site de futebol utilizando API mySQL e React.
-
 <h1>💻 Projeto Site Futebol 💻</h1> 
 
 <p1> 📄 Cadastro e consulta de informação de jogadores mais pagina inicial.</p1>
