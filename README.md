@@ -4,7 +4,7 @@
 
 - <p2> Projeto Maven de API com extensões para ligar ao mySQL.</p2>
 
-- <p3> front feite em React com ligação a API.  </p3>
+- <p3> front feito em React com ligação a API.  </p3>
 
 - <p4> IDES e softwares utilizados: IntelliJ IDEA, Visual Sutdio, mySQL Workbench e Xamp.</p4>
 
